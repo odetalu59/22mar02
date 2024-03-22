@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://fftp.mattdickenson.com/superjp.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/gilajp.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/gojekpot.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/winstrike69.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/jagoan86.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/boosterjp.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/pakong86.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/viral88.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/clan4d.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/dinamit4d.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/elang212.html/sitemap.xml
+Sitemap: https://fftp.mattdickenson.com/viral4d.html/sitemap.xml
